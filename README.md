@@ -1,3 +1,3 @@
 # husky-preview
 
-We're currently developing in closed source to avoid potential theft. As the AI competition is becoming more and more intense, we believe this is the best way to avoid misdeeds. For example, companies might develop better model in closed source using our tools without explicitly saying so to cheat the public. We shall fully open source once it's been solidy established the critical importance of our technology.
+We're currently developing in a closed-source environment to prevent potential misuse and intellectual property theft. As AI competition intensifies, we believe this approach is the most effective safeguard against unethical practices. For instance, companies could leverage our tools to build superior models in a closed-source manner without proper attribution, misleading the public. We are committed to fully open-sourcing once the critical significance of our technology is firmly established.
